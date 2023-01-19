@@ -9,6 +9,7 @@ const prisma = new PrismaClient()
 //     origin: ['http//localhost:3000']
 // })
 
+// 
 app.register(cors)
 // Método http: Get, Post, Put, Patch, Delete
 
